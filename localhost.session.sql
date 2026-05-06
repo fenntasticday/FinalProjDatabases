@@ -1,0 +1,1 @@
+SELECT pg_rotate_logfile();
